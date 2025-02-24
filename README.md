@@ -35,7 +35,8 @@ lib/
 │       │   └── purchase_state.dart
 │       ├── providers/       # Riverpod providers
 │       │   └── subscription_provider.dart
-│       └── presentation/│           ├── screens/
+│       └── presentation/
+            ├── screens/
 │           │   └── subscription_screen.dart
 │           └── widgets/
 │               ├── subscription_card.dart

@@ -17,8 +17,16 @@ A Flutter application demonstrating in-app subscription implementation with a cl
 - 📱 Cross-platform (iOS & Android)
 - 🔄 Purchase restoration support
 
-## 🏗 Project Structure
+### Project Structure
 
+<div align="left">
+  <table>
+    <tr>
+      <th>Project Structure</th>
+    </tr>
+    <tr>
+      <td>
+        <pre>
 lib/
 ├── features/
 │   └── store/
@@ -34,7 +42,11 @@ lib/
 │               └── current_plan_card.dart
 ├── utils/
 │   └── app_messages.dart
-└── main.dart
+└── main.dart</pre>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 Getting Started
 

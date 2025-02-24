@@ -59,7 +59,7 @@ lib/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/flutter_subscription_app.git
+git clone https://github.com/bhautikakbari/inapppurchage.git
 
 
 ## 🤝 Contributing

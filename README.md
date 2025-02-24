@@ -2,10 +2,6 @@
 
 A Flutter application demonstrating in-app subscription implementation with a clean architecture approach and modern UI design. This project showcases how to handle in-app purchases for both iOS and Android platforms.
 
-<div align="center">
-  <img src="https://i.imgur.com/YourScreenshotURL.png" alt="Subscription Plans" width="300"/>
-</div>
-
 ## 🌟 Features
 
 - ✅ In-App Purchase integration
